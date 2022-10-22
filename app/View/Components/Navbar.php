@@ -4,7 +4,7 @@ namespace App\View\Components;
 
 use Illuminate\View\Component;
 
-class Navbar extends Component
+class navbar extends Component
 {
     /**
      * Create a new component instance.

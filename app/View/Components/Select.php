@@ -4,7 +4,7 @@ namespace App\View\Components;
 
 use Illuminate\View\Component;
 
-class Select extends Component
+class select extends Component
 {
     /**
      * The select label.

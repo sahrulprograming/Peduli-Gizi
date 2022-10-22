@@ -4,7 +4,7 @@ namespace App\View\Components;
 
 use Illuminate\View\Component;
 
-class TopbarMobile extends Component
+class topbarMobile extends Component
 {
     /**
      * Create a new component instance.

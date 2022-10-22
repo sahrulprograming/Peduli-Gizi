@@ -4,7 +4,7 @@ namespace App\View\Components;
 
 use Illuminate\View\Component;
 
-class FotoProfile extends Component
+class fotoProfile extends Component
 {
 
     public $image;
