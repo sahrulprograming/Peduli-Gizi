@@ -112,8 +112,7 @@
                             </li>
                             <li>
                                 <a href="/login"
-                                    class="outline outline-[#F58634] text-[#F58634] capitalize bg-white font-[Poppins] font-bold text-xl duration-500 px-8 py-1 mx-4 hover:bg-[#F58634] hover:text-white hover:outline-white rounded cursor-pointer"
-                                    style="border-radius: 16px 32px 0px 16px">
+                                    class="outline outline-[#F58634] text-[#F58634] capitalize bg-white font-[Poppins] font-bold text-xl duration-500 px-8 py-1 mx-4 hover:bg-[#F58634] hover:text-white hover:outline-white rounded-full cursor-pointer">
                                     masuk / daftar
                                 </a>
                             </li>
