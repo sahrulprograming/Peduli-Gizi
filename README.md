@@ -53,7 +53,7 @@ Peduli Gizi Menggunakan Library
 Clone Repository
 
 ```bash
-  git clone https://github.com/CROWNIX/Peduli-Gizi.git
+  git clone https://github.com/sahrulprograming/Peduli-Gizi.git
   cd Peduli-Gizi
 ```
 Install Vendor
